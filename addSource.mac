@@ -1,0 +1,53 @@
+/run/initialize
+#
+
+# source
+/gps/source/intensity 1.
+/gps/particle gamma
+
+
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/halfx 1. cm
+/gps/pos/halfy 1. cm
+/gps/pos/halfz 1. cm
+/gps/pos/paralp 0.523599
+/gps/pos/parthe 0.
+
+
+#.523599
+/gps/pos/parphi 0.
+#.523599
+#/gps/pos/parphi 0.523599
+
+/gps/ang/type iso
+#turn source into beam for testing purposes
+/gps/ang/mintheta 179. degree
+/gps/ang/maxtheta 181. degree
+#/gps/ang/mintheta 0. degree
+#/gps/ang/maxtheta 0. degree
+
+/gps/ene/type User
+/gps/hist/type energy
+
+  #Americium 241
+  #/gps/hist/point 0.0525 1
+
+  #caesium 137
+  /gps/hist/point 0.6617 1.0
+  #/gps/hist/point 0.662 1.
+
+  #Cobalt 60
+  #/gps/hist/point 1.1732 1.0
+  #/gps/hist/point 1.332 .0
+  #/gps/hist/point 1.3325 1.0
+
+  # Pu-239
+  # /gps/hist/point 0.414 1.0
+
+  # Pa-234m
+  # /gps/hist/point 1.001 1.0
+
+/run/printProgress 100
+/run/beamOn 10000

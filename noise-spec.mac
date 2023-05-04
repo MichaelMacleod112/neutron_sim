@@ -1,0 +1,26 @@
+/gps/particle gamma
+/gps/pos/type Volume
+/gps/pos/shape Para
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/halfx 1. cm
+/gps/pos/halfy 1. cm
+/gps/pos/halfz 1. cm
+/gps/pos/paralp 0.523599
+/gps/pos/parthe 0.
+/gps/ang/type iso
+
+
+# power-law energy distr.
+# /gps/ene/type Pow
+# /gps/ene/min 0. MeV
+# /gps/ene/max 1. MeV
+# /gps/ene/alpha -2.
+
+# exponetial energy distri.
+/gps/ene/type Exp
+/gps/ene/min 0. MeV
+/gps/ene/max 1.2. MeV
+/gps/ene/ezero 1.
+
+/run/printProgress 10000
+/run/beamOn 1000000

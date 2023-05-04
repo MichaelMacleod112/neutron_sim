@@ -1,0 +1,10 @@
+**/build/
+**/csv_data/
+**/data/
+**/isoID_spectra/
+**.ipynb_checkpoints
+**.ipynb
+**.py
+**.csv
+**.root
+**.zip

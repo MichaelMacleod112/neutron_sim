@@ -1,0 +1,158 @@
+#/vis/viewer/set/viewpointVector 0 0 -1
+#/vis/viewer/refresh
+/vis/viewer/set/style s
+/vis/viewer/refresh
+/vis/viewer/set/hiddenEdge 1
+/vis/viewer/refresh
+
+/vis/set/touchable World 0
+/vis/touchable/set/visibility false
+
+/vis/set/touchable World 0 Camera 0
+/vis/touchable/set/visibility false
+
+/vis/set/touchable World 0 Camera 0 Camera 0
+/vis/touchable/set/visibility false
+
+/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0
+/vis/touchable/set/visibility false
+
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Pixel 0
+#/vis/touchable/set/visibility true
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 1
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 11
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 12
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 13
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 14
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 15
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 16
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 17
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 18
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 2
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 21
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 22
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 23
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 24
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 25
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 26
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 27
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 28
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 3
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 31
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 32
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 33
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 34
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 35
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 36
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 37
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 38
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 4
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 41
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 42
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 43
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 44
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 45
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 46
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 47
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 48
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 5
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 51
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 52
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 53
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 54
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 55
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 56
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 57
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 58
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 6
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 61
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 62
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 63
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 64
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 65
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 66
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 67
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 68
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 7
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 71
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 72
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 73
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 74
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 75
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 76
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 77
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 78
+## /vis/touchable/set/visibility true
+#/vis/set/touchable World 0 Camera 0 Camera 0 Internal 0 Reflector 0 Crystal 8
+#/vis/touchable/set/visibility true
+#
+#/vis/viewer/refresh
+#/vis/scene/notifyHandlers
+#

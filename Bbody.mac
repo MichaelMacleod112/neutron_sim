@@ -1,0 +1,24 @@
+/run/initialize
+#
+/gps/particle geantino
+
+# surface source
+/gps/pos/type Surface
+/gps/pos/shape Sphere
+/gps/pos/centre -2. 2. 2. cm
+/gps/pos/radius 2.5 cm
+
+#isotropic angular distribution
+/gps/ang/type iso
+
+# black body energy distr.
+/gps/ene/type Bbody
+/gps/ene/min 0.05 MeV
+/gps/ene/max 10. MeV
+/gps/ene/temp 2e9
+/gps/ene/calculate
+
+
+/run/printProgress 10000
+
+/run/beamOn 10000000
